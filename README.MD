@@ -14,8 +14,8 @@
 
 ## Установка
 
-1. Перейдите на страницу [релиза на GitHub](https://github.com/your-repo-link/releases).
-2. Скачайте последнюю версию установщика, доступного по [ссылке на Google Диск](https://drive.google.com/your-installer-link).
+1. Перейдите на страницу [релиза на GitHub](https://github.com/shoksin/PCG-LAB3.git).
+2. Скачайте последнюю версию установщика, доступного по [ссылке на Google Диск](https://drive.google.com/file/d/19bSd3YAwlArwv1WIf3ps0ygwCbIKPFFK/view?usp=sharing).
 3. Запустите установщик и следуйте инструкциям.
 
 ---
